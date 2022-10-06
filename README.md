@@ -1,8 +1,7 @@
 # Innovathon-22
 
 Team members: 
-Srushti Patil
-Ansh Mehta
+Srushti Patil, Ansh Mehta
 
 PROBLEM STATEMENT 4
 DEVELOPING A SOLUTION FOR GESTURE ENABLED
